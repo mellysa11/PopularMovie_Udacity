@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app primary colors -->
+    <color name="primaryDark">#00695C</color>
+    <color name="primary">#009688</color>
+    <color name="primaryLight">#E0F2F1</color>
+    <color name="lightText">#FFFFFF</color>
+    <color name="accent">#F4511E</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#727272</color>
+    <color name="dividerColor">#B6B6B6</color>
+
+</resources>
